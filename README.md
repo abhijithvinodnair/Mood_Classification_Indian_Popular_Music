@@ -1,2 +1,2 @@
-# Mood_Classification_Indian_Popular_Music
+# Mood Classification for Indian Popular Music
 On investigating a better audio representation for mood classification in Indian Popular Music
